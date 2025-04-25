@@ -6,7 +6,7 @@
 
 What is a short meaningful commit message to add here?
 
-git init
+$ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 
 
