@@ -7,3 +7,4 @@
 
 
 What is a short meaningful commit message to add here?
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
